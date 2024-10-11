@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar'; // Adjust the path based on your str
 import Dashboard from './components/Dashboard';
 import PostActivity from './components/PostActivity';
 import Workout from './components/Workout';
-import Goal from './components/Goal';
+import Goal from './components/goal/Goal';
 
 const App = () => {
   return (
